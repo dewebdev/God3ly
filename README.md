@@ -44,19 +44,19 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/G0d3ly/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhanush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=G0d3ly&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/God3ly/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhanush's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=God3ly&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/G0d3ly/github-readme-stats"><img alt="Dhanush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=G0d3ly&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/G0d3ly/github-readme-stats"><img alt="Dhanush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0d3ly&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/God3ly/github-readme-stats"><img alt="Dhanush's Github Stats" src="https://github-readme-stats.vercel.app/api?username=God3ly&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/God3ly/github-readme-stats"><img alt="Dhanush's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0d3ly&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.G0d3ly
-<a href="https://github.com/G0d3ly/github-readme-activity-graph"><img alt="Dhanush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=G0d3ly&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/God3ly/github-readme-activity-graph"><img alt="Dhanush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=God3ly&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -72,7 +72,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/G0d3ly/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=G0d3ly">
+<a href="https://github.com/God3ly/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=God3ly">
 </a>
-<a href="https://github.com/God3ly?tab=followers"><img src="https://img.shields.io/github/followers/G0d3ly?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/God3ly?tab=followers"><img src="https://img.shields.io/github/followers/God3ly?label=Followers&style=social" alt="GitHub Badge"></a>
