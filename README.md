@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid19-Tracker](https://dhanu-mega-project.herokuapp.com/)**
+- 🔭 I’m currently working on **[My New React Portfolio](https://dhanu-mega-project.herokuapp.com/)**
 
 - 🌱 I’m currently learning **React.js.**
 
