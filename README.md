@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My New React Portfolio](https://dhanu-mega-project.herokuapp.com/)**
+- 🔭 I’m currently working on **[My New React Portfolio]()**
 
 - 🌱 I’m currently learning **React.js.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://dewebdev-portfolio.netlify.app/)**
 
 - 📫 How to reach me **Dhanushshetty201@gmail.com**
 
