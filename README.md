@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My New React Portfolio]()**
+- 🔭 I’m currently working on **[Online Cdn enabled Note Sharing Webiste]()**
 
 - 🌱 I’m currently learning **React.js.**
 
