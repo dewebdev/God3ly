@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Online Cdn enabled Note Sharing Webiste](https://codeshareit.herokuapp.com/)**
 
-- 🌱 I’m currently learning **React.js.**
+- 🌱 I’m currently learning **React-Native.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
