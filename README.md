@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Our BCA Fest Website]()**
 
-- 🌱 I’m currently learning **React-Native.**
+- 🌱 I’m currently learning **Python Programming.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Dhanushshetty201@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the Karate very often.**
+- ⚡ Fun fact **I play games and go to the Gym very often.**
 
 ## 🚀 Languages and Tools:
 
