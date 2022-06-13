@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Our BCA Fest Website]()**
+- 🔭 I’m currently working on **[BCA FINAL YEAR PROJECT]()**
 
-- 🌱 I’m currently learning **Python Programming.**
+- 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://dewebdev-portfolio.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://dewebdev.netlify.app/)**
 
-- 📫 How to reach me **Dhanushshetty201@gmail.com**
+- 📫 How to reach me **dewebdev.shetty@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the Gym very often.**
 
